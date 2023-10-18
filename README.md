@@ -41,7 +41,8 @@ The Password Prompt Application is a simple desktop application built using PyQt
    python password_prompt_app.py
    ```
 2. You will be prompted to enter a password. Upon successful authentication, the Google Chrome browser will open to the specified URL.
-  ![img.png](img.png)
+
+![img.png](img.png)
 ### Configuration
 
 You can customize the correct password and the URL by modifying the password_prompt_app.py file.
